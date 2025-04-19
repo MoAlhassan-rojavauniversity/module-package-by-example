@@ -1,4 +1,4 @@
-from . import package_builder
+from . import package_builder # from the current package which is "test_project_python" import a module "package_builder" (python file )
 
 
 EXAMPLE_1 = {
