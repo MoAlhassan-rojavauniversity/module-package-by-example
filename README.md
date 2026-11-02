@@ -3,6 +3,9 @@
 This repository is for you to train on importing your modules correcting.\
 Using the __init__.py files to import from the sub-packages more neatly.
 
+Make sure you create a branch for yourself, and after you do your changes\
+ you will need to create a pr (pull request) to the main so that I can review them.
+
 ## Requirements
 
 1- Create an __init__.py file for the math_utility and string_utility modules\
